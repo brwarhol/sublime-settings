@@ -1,0 +1,20 @@
+{
+	"args":
+	{
+		"activate_browser": true,
+		"auto_save": true,
+		"browser_name": "all",
+		"delay": 0.5
+	},
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"keys":
+	[
+		"command+shift+r"
+	],
+	"theme": "Flatland Dark.sublime-theme"
+}
